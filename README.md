@@ -1,2 +1,2 @@
 # django-api
-Api build with django
+Api example build with django
