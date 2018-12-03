@@ -37,7 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'geeksApi.apps.GeeksapiConfig',
+    'geeksApi.apps.GeeksApiConfig',
+    'rest_framework',
+    'geeksApi',
+    'users'
+
 ]
 
 MIDDLEWARE = [

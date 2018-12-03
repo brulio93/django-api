@@ -1,5 +1,5 @@
-from django.apps import AppConfig
+import django.apps
 
 
-class GeeksapiConfig(AppConfig):
+class GeeksApiConfig(django.apps.AppConfig):
     name = 'geeksApi'
